@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as c,c as r,d as s}from"./index.0b6f67bb.js";const n={},_={class:"bg-stone-50"};function a(i,d){const e=t("router-view");return c(),r("div",_,[s(e)])}const l=o(n,[["render",a]]);export{l as default};
